@@ -1,6 +1,7 @@
 # Nuxt 3 Minimal Starter
 
-Learning Nuxt 3 by creating this silly 'Baby Name Generator' web app.
+Learning Nuxt 3 by creating this silly 'Baby Name Generator' web app based on the following Nuxt 3 crash course:
+https://www.youtube.com/watch?v=dZC4T4UiU1c&ab_channel=LaithAcademy
 
 ## Setup
 

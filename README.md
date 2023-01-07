@@ -3,9 +3,10 @@
 Learning Nuxt 3 by creating this silly 'Baby Name Generator' web app based on the following Nuxt 3 crash course:
 https://www.youtube.com/watch?v=dZC4T4UiU1c&ab_channel=LaithAcademy
 
-# Tech Stack
+## Tech Stack
 
 - Nuxt3
+- Typescript (just experimenting wit it)
 
 ## Setup
 

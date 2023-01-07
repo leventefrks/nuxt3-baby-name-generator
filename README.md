@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=dZC4T4UiU1c&ab_channel=LaithAcademy
 ## Tech Stack
 
 - Nuxt3
-- Typescript (just experimenting wit it)
+- Typescript (just experimenting with it)
 
 ## Setup
 

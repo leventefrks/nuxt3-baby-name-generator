@@ -115,7 +115,7 @@ const onSelectedNames = () => {
 };
 
 const removeName = selectedName =>
-  (generatedNames.value = generatedNames.value.filter(
+  (generatedNames.value = [...generatedNames.value].filter(
     name => name !== selectedName
   ));
 </script>
